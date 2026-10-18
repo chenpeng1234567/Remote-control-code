@@ -1,0 +1,28 @@
+# ===== Keil MDK-ARM build output =====
+# Object files, listings and images
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.axf
+*.htm
+*.lnp
+*.dep
+*.iex
+*.sct
+*.scvd
+*.Bak
+Output/
+
+# ===== Keil user-specific files =====
+# GUI layout (one per user/machine)
+*.uvguix.*
+# Debugger logs and settings
+JLinkLog.txt
+JLinkSettings.ini
+
+# ===== OS junk =====
+Thumbs.db
+Desktop.ini
+.DS_Store
